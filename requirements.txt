@@ -1,0 +1,7 @@
+geocoder
+folium
+scapy
+python-nmap
+streamlit
+streamlit_folium
+socket
