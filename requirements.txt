@@ -4,4 +4,3 @@ scapy
 python-nmap
 streamlit
 streamlit_folium
-socket
